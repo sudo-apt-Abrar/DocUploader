@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850425970620",
+    "project_id": "docupload-51d99",
+    "storage_bucket": "docupload-51d99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850425970620:android:0f115b10096805c4a675b9",
+        "android_client_info": {
+          "package_name": "com.example.doc_uploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850425970620-ttudl112plhsu9hjgge3d6e26465e361.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0gtB4V7_z_5NDn1zhw-sH34FNLeI-nog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850425970620-ttudl112plhsu9hjgge3d6e26465e361.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
